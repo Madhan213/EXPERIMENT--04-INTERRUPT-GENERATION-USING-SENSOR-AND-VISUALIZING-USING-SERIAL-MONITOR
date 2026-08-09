@@ -708,30 +708,31 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots of serial port utility   :
 
  **4a**
-<img width="1040" height="1280" alt="WhatsApp Image 2026-08-09 at 7 38 36 PM" src="https://github.com/user-attachments/assets/ec794283-a440-4ca7-ada7-bed8e025e7c1" />
+ 
+<img width="960" height="919" alt="WhatsApp Image 2026-08-09 at 7 38 36 PM" src="https://github.com/user-attachments/assets/25dc5d97-af16-4a53-b3d3-51ed6abb069a" />
 
 
  **4B**
 
-<img width="1490" height="1600" alt="WhatsApp Image 2026-08-09 at 7 43 34 PM (1)" src="https://github.com/user-attachments/assets/c2d939df-b4f9-41c8-beec-cb690977fe6e" />
+<img width="591" height="630" alt="WhatsApp Image 2026-08-09 at 7 43 34 PM (1)" src="https://github.com/user-attachments/assets/cb7ca472-475b-4727-b8d0-5ba0301dc0d2" />
 
- 
+
  ## Circuit board :
 
  
   **4a**
   
-<img width="1500" height="1204" alt="WhatsApp Image 2026-08-08 at 4 20 39 PM" src="https://github.com/user-attachments/assets/406c7870-119d-42d9-9893-71b88099c27d" />
-
-<img width="1500" height="1204" alt="WhatsApp Image 2026-08-08 at 4 20 39 PM (1)" src="https://github.com/user-attachments/assets/7d0f5487-56be-4726-8658-b7807cd1cd05" />
-
+<img width="452" height="449" alt="WhatsApp Image 2026-08-09 at 7 43 34 PM" src="https://github.com/user-attachments/assets/38d54db1-e0a4-49c2-84e5-1d5d32f51368" />
+  
+<img width="481" height="418" alt="WhatsApp Image 2026-08-09 at 7 43 34 PM (2)" src="https://github.com/user-attachments/assets/4079ff01-03c6-4e8d-964a-d2ce5e8d0759" />
 
  **4B**
-
-<img width="1480" height="1600" alt="WhatsApp Image 2026-08-09 at 7 43 34 PM" src="https://github.com/user-attachments/assets/a6bb77e2-9010-4a26-866e-115d7bfd7fd9" />
-
- <img width="1480" height="1600" alt="WhatsApp Image 2026-08-09 at 7 43 34 PM (2)" src="https://github.com/user-attachments/assets/0ee923fd-e3f0-4cff-9bac-b00acdda3a53" />
+ 
+<img width="452" height="449" alt="WhatsApp Image 2026-08-09 at 7 43 34 PM" src="https://github.com/user-attachments/assets/38d54db1-e0a4-49c2-84e5-1d5d32f51368" />
+  
+<img width="481" height="418" alt="WhatsApp Image 2026-08-09 at 7 43 34 PM (2)" src="https://github.com/user-attachments/assets/4079ff01-03c6-4e8d-964a-d2ce5e8d0759" />
 
  
 ## Result :
+
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
